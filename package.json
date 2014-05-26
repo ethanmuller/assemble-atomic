@@ -30,7 +30,8 @@
     "fs-utils": "~0.3.6",
     "grunt-contrib-clean": "~0.5.0",
     "handlebars-helper-rel": "~0.1.2",
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "verb": "^0.2.10"
   },
   "keywords": [
     "atoms",
