@@ -39,8 +39,8 @@ plugins:
 # =============================================
 
 patterns:       patterns
-atoms:          <%= site.patterns %>/atoms
-molecules:      <%= site.patterns %>/molecules
-organisms:      <%= site.patterns %>/organisms
-templates:      <%= site.patterns %>/templates
-pages:          <%= site.patterns %>/pages
+atoms:          <%= site.patterns %>/00-atoms
+molecules:      <%= site.patterns %>/01-molecules
+organisms:      <%= site.patterns %>/02-organisms
+templates:      <%= site.patterns %>/03-templates
+pages:          <%= site.patterns %>/04-pages
